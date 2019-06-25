@@ -46,7 +46,7 @@ function makeInt (n) {
   return (n)
 }
 
-n = 80.123999
+n = 2.2222
 function preserveDecimal (n) {
   parseFloat(n)
   return (n)
