@@ -28,3 +28,9 @@ function divide (a,b,c) {
   c = a / b 
   return (c)
 }
+
+var n = 5
+function inc(n) {
+  n++
+  return (n)
+}
