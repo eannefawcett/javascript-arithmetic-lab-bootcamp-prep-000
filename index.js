@@ -39,3 +39,9 @@ function dec(n) {
   n--
   return (n)
 }
+
+n = 2.2222
+function makeInt (n) {
+  parseInt(n)
+  return (n)
+}
