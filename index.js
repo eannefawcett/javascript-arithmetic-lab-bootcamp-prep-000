@@ -21,3 +21,10 @@ function multiply (a,b,c) {
   c = a * b 
   return (c)
 }
+
+a = 5.0 
+b = 2.5
+function divide (a,b,c) {
+  c = a / b 
+  return (c)
+}
