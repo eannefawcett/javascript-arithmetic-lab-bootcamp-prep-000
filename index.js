@@ -7,9 +7,17 @@ function add (a,b,c) {
  c = a + b
   return (c)
 }
+
 a = 60
 b = 40
 function subtract (a,b,c) {
   c = a - b
+  return (c)
+}
+
+a = 2
+b = 3.4 
+function multiply (a,b,c) {
+  c = a * b 
   return (c)
 }
