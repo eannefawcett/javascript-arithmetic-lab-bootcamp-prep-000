@@ -45,3 +45,9 @@ function makeInt (n) {
   parseInt(n, 10)
   return (n)
 }
+
+n = 80.123999
+function preserveDecimal (n) {
+  parseFloat(n)
+  return (n)
+}
