@@ -7,3 +7,9 @@ function add (a,b,c) {
  c = a + b
   return (c)
 }
+a = 60
+b = 40
+function subtract (a,b,c) {
+  c = a - b
+  return (c)
+}
