@@ -40,12 +40,8 @@ function dec(n) {
   return (n)
 }
 
-n = 2
-function makeInt (n) {
-  parseInt(n)
-  return (n)
-}
 n = 2.2222
-function makeInt (n) {
-  parseInt(2, 10)
+function makeInt (n, 10) {
+  parseInt(n, 10)
+  return (n)
 }
