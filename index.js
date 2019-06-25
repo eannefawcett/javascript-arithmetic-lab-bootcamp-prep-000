@@ -1,6 +1,7 @@
 var a = parseFloat(a)
-var b = parseFloat(y)
+var b = parseFloat(b)
+var c = parseFloat(c)
 function add () {
-  x + y
+ c = a + b 
+  return c
 }
-function
